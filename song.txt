@@ -2,3 +2,6 @@ I can see you
 You can see me I can hear you
 I can feel you You can feel me 
 I can see you You can see me 
+
+I can hear you You can hear me
+I can feel you You can feel me 
